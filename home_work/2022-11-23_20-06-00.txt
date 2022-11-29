@@ -1,7 +1,0 @@
-Пользователи системы: ['root', 'avahi', 'message+', 'syslog', 'whoopsie', 'kernoops', 'rtkit', 'colord', 'gdm', 'systemd+', 'veles']
-Процессов запущено: 252
-Пользовательских процессов: {'root': 110, 'avahi': 2, 'message+': 1, 'syslog': 1, 'whoopsie': 1, 'kernoops': 2, 'rtkit': 1, 'colord': 1, 'gdm': 46, 'systemd+': 2, 'veles': 85}
-Всего MEM используется, %: 64.6
-Всего CPU используется, %: 15.5
-Больше всего MEM использует: 30.9 (/snap/pycharm-commun)
-Больше всего CPU использует:  7.4 (/usr/bin/containerd-)
